@@ -329,7 +329,7 @@ Plik:
 ```txt
 CGCATC
 ATTCG
-AATCUGGGG
+AATCTGGGG
 ```
 
 Wejście:
